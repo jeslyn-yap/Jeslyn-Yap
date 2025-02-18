@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-**jeslyn-yap/Jeslyn-Yap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- 😊 I'm Jeslyn Yap
 - 🔭 I’m currently working on my profile
 - 🌱 I’m currently learning how to use GitHub
 - 👯 I’m looking to collaborate on more projects related to creating links 
