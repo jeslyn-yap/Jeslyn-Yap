@@ -1,7 +1,7 @@
-## 𝓗𝓮𝓵𝓵𝓸 ℋℯ𝓁𝓁ℴ👋
+## 𝓗𝓮𝓵𝓵𝓸 👋
 ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆₊ °✦ ‧ ‧ ₊ ˚✧⁺˚⋆｡ °✩₊˖⁺‧₊˚♡˚₊‧⁺˖
-- 😊 I'm Jeslyn Yap
-- 🔭 I’m currently working on my profile
+- 😊 𝓜𝔂 𝓝𝓪𝓶𝓮 𝓲𝓼 𝓙𝓮𝓼𝓵𝔂𝓷
+- 🔭 𝓘  𝓪𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮
 - 🌱 I’m currently learning how to use GitHub
 - 👯 I’m looking to collaborate on more projects related to creating links 
 - 🤔 I’m looking for help with better knowledge of GitHub
